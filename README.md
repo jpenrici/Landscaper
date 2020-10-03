@@ -1,6 +1,6 @@
 # Landscaper
 
-Experiment with Canvas and Javascript for simple landscaping design.<br>
+Experiment with Canvas and JavaScript for simple landscaping design.<br>
 
 # Display
 
