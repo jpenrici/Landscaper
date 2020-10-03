@@ -1,0 +1,21 @@
+/* CSS landscaper.html */
+*
+{
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@font-face 
+{
+  font-family: Archistico;
+  src: url("../fonts/Archistico_Simple.ttf");
+}
+
+p
+{
+  font-family: Archistico;
+  font-size: 19px;
+  color: #0A074D;
+  padding: 5px;
+}
